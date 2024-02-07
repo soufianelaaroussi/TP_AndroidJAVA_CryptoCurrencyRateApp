@@ -11,7 +11,7 @@ Cette application Android a été développée par un développeur mobile dans l
 ## Pour Commencer
 1. Clonez le dépôt sur votre machine locale.
    ```bash
-   git clone https://github.com/votre-nom/utilisateur-application-taux-change.git
+   git clone https://github.com/soufianelaaroussi/TP_AndroidJAVA_CryptoCurrencyRateApp.git
    ```
 
 2. Ouvrez le projet dans votre environnement de développement Android préféré (par exemple, Android Studio).
